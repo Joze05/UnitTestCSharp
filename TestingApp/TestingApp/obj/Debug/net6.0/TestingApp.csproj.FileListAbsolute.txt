@@ -1,0 +1,15 @@
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.exe
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.deps.json
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.runtimeconfig.json
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.dll
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\bin\Debug\net6.0\TestingApp.pdb
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.AssemblyInfo.cs
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.dll
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\refint\TestingApp.dll
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.pdb
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\TestingApp.genruntimeconfig.cache
+C:\Users\alvar\Desktop\Projects\AppTest\TestingApp\TestingApp\obj\Debug\net6.0\ref\TestingApp.dll
